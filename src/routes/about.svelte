@@ -15,7 +15,7 @@
 </script>
 
 <svelte:head>
-	<title>About</title>
+	<title>All About This App</title>
 </svelte:head>
 
 <div class="content">
